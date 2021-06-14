@@ -7,7 +7,6 @@ assets:
   referenceType: static
   staticDir: public
   uploadDir: images
-    k
   publicPath: /
 dataDir: content/data
 pagesDir: content/pages
@@ -15,7 +14,7 @@ pageLayoutKey: layout
 logicFields:
   - portfolio_section.projects_number
   - posts_section.posts_number
-models:
+models
   config:
     type: data
     label: Site Configuration
